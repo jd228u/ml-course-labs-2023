@@ -1,0 +1,12 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# Optional per-lab extras
+graphviz        # Lab 2 (tree visualization) - also install system Graphviz (dot)
+tensorflow      # Lab 6 (transfer learning on CIFAR-100)
+xgboost         # Lab 11 (XGBRegressor)
